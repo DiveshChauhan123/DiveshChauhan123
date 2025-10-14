@@ -34,14 +34,16 @@ I love building innovative projects that combine cutting-edge technologies with 
 ---
 
 ## 📈 GitHub Stats
-![Divesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diveshsinghchauhan&show_icons=true&theme=radical)
+![Divesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiveshChauhan123&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [Divesh Singh Chauhan](https://www.linkedin.com/in/diveshsinghchauhan)  
-- GitHub: [diveshsinghchauhan](https://github.com/diveshsinghchauhan)  
-- Email: divesh.singh@example.com  
+- LinkedIn: [Divesh Singh Chauhan](https://www.linkedin.com/in/divesh-singh-6ty/)  
+- GitHub: [diveshsinghchauhan](https://github.com/DiveshChauhan123)
+- Leetcode: [Divesh Singh Chauhan](https://leetcode.com/u/divesh_singh_chauhan/)
+- Codeforces: [Divesh Singh Chauhan](https://codeforces.com/profile/chakshu_.)  
+- Email: diveshchauhan792004@gmail.com  
 
 ---
 
